@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b39cd34a-30bf-4c18-af8c-f77355a4b71b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/salvatoredimaria/Documents/Development/github/tradeRepublicPortfolioScraper" value="3A4cHycOcnxdQD6r1ubwhxcfeum" />
+    </persistenceIdMap>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3A4cHycOcnxdQD6r1ubwhxcfeum" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.python runner.py --storage-state storage_state.json --sectors-output out_portfolio/portfolio_sectors.csv --countries-output out_portfolio/portfolio_countries.csv --positions-output out_portfolio/portfolio_positions.csv.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/salvatoredimaria/Documents/Development/github/tradeRepublicPortfolioScraper"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="python runner.py --storage-state storage_state.json --sectors-output out_portfolio/portfolio_sectors.csv --countries-output out_portfolio/portfolio_countries.csv --positions-output out_portfolio/portfolio_positions.csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tradeRepublicPortfolioScraper" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="runner.py" />
+      <option name="PARAMETERS" value="--storage-state storage_state.json --sectors-output out_portfolio/portfolio_sectors.csv --countries-output out_portfolio/portfolio_countries.csv --positions-output out_portfolio/portfolio_positions.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.python runner.py --storage-state storage_state.json --sectors-output out_portfolio/portfolio_sectors.csv --countries-output out_portfolio/portfolio_countries.csv --positions-output out_portfolio/portfolio_positions.csv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b39cd34a-30bf-4c18-af8c-f77355a4b71b" name="Changes" comment="" />
+      <created>1771855199656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771855199656</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

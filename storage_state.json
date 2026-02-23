@@ -1,0 +1,163 @@
+{
+  "cookies": [
+    {
+      "name": "i18n_redirected",
+      "value": "en",
+      "domain": ".traderepublic.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tr_test_d",
+      "value": "c1c342ce-0619-4d69-94b7-c325a0ac26bc",
+      "domain": "app.traderepublic.com",
+      "path": "/",
+      "expires": 1803389870,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "tr_appearance",
+      "value": "Light",
+      "domain": ".traderepublic.com",
+      "path": "/",
+      "expires": 1803389870,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "analytics",
+      "value": "revoke",
+      "domain": ".traderepublic.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "marketing",
+      "value": "revoke",
+      "domain": ".traderepublic.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "aws-waf-token",
+      "value": "7818dd13-134f-451a-9c5f-c51e51542d4d:CQoAt5NfF4imAAAA:Z4bBbgh8KfeTmcIBzW0cCnbdD2zFbW6hp06YKOIH1AaGXHqn/UT86dnIYrQpqxy84kyqaJkWJq5siZH4QSVW+a6cwWv+iu+4ILWop4kmh8WL1zAzr3+eVNX2UA49RVPgHNahi4NU/gObM9MvgmkLJ35rUQto3gasVipqwsXwaTuiKe8Sl7iYISIycJ53VzFFA0DzZXRA6HgdTj8yvABm19NFrYA+HhA4dzsSSHpJcnQUfSb+t/dPLu06RFa2cG8Hqfe1WbsJ",
+      "domain": ".traderepublic.com",
+      "path": "/",
+      "expires": 1772199490,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "61B1A06CF96F9512F65CBBAD133DEE5B",
+      "domain": "api.traderepublic.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tr_session",
+      "value": "eyJhbGciOiJFUzI1NiJ9.eyJhY3QiOnsiaWQiOiIyOWJjYWQ1MS04YTMwLTRjNjgtOWNjMi0wY2YxYjExZmNkNWYiLCJhY2MiOnsib3duZXIiOnsiZGVmYXVsdCI6eyJzZWMiOlsiMDY0OTk2ODkwMSJdLCJjYXNoIjpbIjA2NDk5Njg5MTEiXX19fSwicmVsIjoic2VsZiJ9LCJqdXJpc2RpY3Rpb24iOiJJVCIsInNlc3Npb25JZCI6IjBkMjEzODJjLTUyZjItNDIxMi1iZDdjLWQ4NWQ5YjRmM2FhOCIsInR5cGUiOiJTRVNTSU9OIiwiZmVhdHVyZXNFbmFibGVkIjpbeyJmZWF0dXJlIjoiY2FyZCJ9LHsiZmVhdHVyZSI6InB2RW5hYmxlZEZvckNhcmRzIn0seyJmZWF0dXJlIjoiY3VycmVudEFjY291bnRBY3RpdmF0ZWQifSx7ImZlYXR1cmUiOiJ0ckliYW5BY3RpdmF0ZWQifSx7ImZlYXR1cmUiOiJibG9ja19zZWN1cml0aWVzX3RyYW5zZmVyIn0seyJmZWF0dXJlIjoibG9jYWxfYnJhbmNoIn0seyJmZWF0dXJlIjoiYm9uZFRyYWRpbmcifSx7ImZlYXR1cmUiOiJjcnlwdG8ifV0sInN0YXR1cyI6IkFDVElWRSIsImlhdCI6MTc3MTg1Mzg5MiwiZXhwIjoxNzcxODU0MTkyLCJzdWIiOiIyOWJjYWQ1MS04YTMwLTRjNjgtOWNjMi0wY2YxYjExZmNkNWYifQ.A4Mj9x_DML6nNRXfluc7YuWJZ1wzUp0vqsJL8M97puWLy0KSXtZiTbN28kQz9AYU78bMW-tmMENm2lot6XOY4g",
+      "domain": "api.traderepublic.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tr_refresh",
+      "value": "eyJhbGciOiJFUzI1NiJ9.eyJqdXJpc2RpY3Rpb24iOiJJVCIsInNlc3Npb25JZCI6IjBkMjEzODJjLTUyZjItNDIxMi1iZDdjLWQ4NWQ5YjRmM2FhOCIsInR5cGUiOiJSRUZSRVNIIiwiZmVhdHVyZXNFbmFibGVkIjpbeyJmZWF0dXJlIjoiY2FyZCJ9LHsiZmVhdHVyZSI6InB2RW5hYmxlZEZvckNhcmRzIn0seyJmZWF0dXJlIjoiY3VycmVudEFjY291bnRBY3RpdmF0ZWQifSx7ImZlYXR1cmUiOiJ0ckliYW5BY3RpdmF0ZWQifSx7ImZlYXR1cmUiOiJibG9ja19zZWN1cml0aWVzX3RyYW5zZmVyIn0seyJmZWF0dXJlIjoibG9jYWxfYnJhbmNoIn0seyJmZWF0dXJlIjoiYm9uZFRyYWRpbmcifSx7ImZlYXR1cmUiOiJjcnlwdG8ifV0sInN0YXR1cyI6IkFDVElWRSIsImlhdCI6MTc3MTg1Mzg5MiwiZXhwIjoxNzcxODYxMDkyLCJzdWIiOiIyOWJjYWQ1MS04YTMwLTRjNjgtOWNjMi0wY2YxYjExZmNkNWYifQ.zW3KNYLm0kI2wm2dP0dxx2fBr3lennAJ7dVv0ePJxyS6_uBzngcous3BE4xD7bGOVA8x1Zut0wIqya4ojYSVaA",
+      "domain": "api.traderepublic.com",
+      "path": "/api/v1/auth/web",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tr_claims",
+      "value": "eyJhY3QiOnsiaWQiOiIyOWJjYWQ1MS04YTMwLTRjNjgtOWNjMi0wY2YxYjExZmNkNWYiLCJhY2MiOnsib3duZXIiOnsiZGVmYXVsdCI6eyJzZWMiOlsiMDY0OTk2ODkwMSJdLCJjYXNoIjpbIjA2NDk5Njg5MTEiXX19fSwicmVsIjoic2VsZiJ9LCJqdXJpc2RpY3Rpb24iOiJJVCIsInNlc3Npb25JZCI6IjBkMjEzODJjLTUyZjItNDIxMi1iZDdjLWQ4NWQ5YjRmM2FhOCIsInR5cGUiOiJTRVNTSU9OIiwiZmVhdHVyZXNFbmFibGVkIjpbeyJmZWF0dXJlIjoiY2FyZCJ9LHsiZmVhdHVyZSI6InB2RW5hYmxlZEZvckNhcmRzIn0seyJmZWF0dXJlIjoiY3VycmVudEFjY291bnRBY3RpdmF0ZWQifSx7ImZlYXR1cmUiOiJ0ckliYW5BY3RpdmF0ZWQifSx7ImZlYXR1cmUiOiJibG9ja19zZWN1cml0aWVzX3RyYW5zZmVyIn0seyJmZWF0dXJlIjoibG9jYWxfYnJhbmNoIn0seyJmZWF0dXJlIjoiYm9uZFRyYWRpbmcifSx7ImZlYXR1cmUiOiJjcnlwdG8ifV0sInN0YXR1cyI6IkFDVElWRSIsImlhdCI6MTc3MTg1Mzg5MiwiZXhwIjoxNzcxODU0MTkyLCJzdWIiOiIyOWJjYWQ1MS04YTMwLTRjNjgtOWNjMi0wY2YxYjExZmNkNWYifQ",
+      "domain": ".traderepublic.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tr_device",
+      "value": "be379f97-385f-4be2-ba1f-505ddb71859a",
+      "domain": "api.traderepublic.com",
+      "path": "/",
+      "expires": 1803389892,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tr_external_id",
+      "value": "56cdb77e-85c5-4fb6-a42d-58203df2a412",
+      "domain": ".traderepublic.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.traderepublic.com",
+      "localStorage": [
+        {
+          "name": "gbFeaturesCache",
+          "value": "[[\"https://cdn.growthbook.io||sdk-IZ1YdzwJgV5sMfFq\",{\"data\":{\"status\":200,\"features\":{},\"dateUpdated\":\"2026-02-18T13:36:35.371Z\",\"encryptedFeatures\":\"WSS2L6CMUfejFoInA7njKg==.uK5L+rl5Bgf7NHlZhtjPm17jEFE4uSmEhkNkPKDda9sj7cnlYs9doBeM4U6QXYf7Kr+YVpphsjWYti3mZpxIxm21z23r5f47g5vrdFm59a6RO2eEHGHGLiVAU20wdJzOM8it33/O0qAGkt5rUEUXZrXQ0O2ZQIgLAw0XftPcWMyba6JDI1ok5lAVWAiYKctWpwWtyc0gl7a4lmDNJeNevIBypiImaRmEDVTvitAE1txPMOZ43uyEG1pfmAfk1GPxD5pgob7j8UAyce6OtjRjX1hJ+/ppJi4e8AzoiraA5PNCa+1BblGVXdJ7ytPOfMOe+mWjZf0GpGtRkV68KYR8goSvrJEVDBrjDIrtbEe9H3addaQxE8l7gMHfYHAV2IrtV9aWQC4VuC+OBURo8Jk1NRi23L6GWYoX7HQYaW84VraGKD1M+bhv5dMsY0bJItpuL8j7zg5/+ny9gzyG1TfYRKlcOLmIORG14njO99ZIdh85eLBMVRcbzzaAAb/HD71P/kuyjk0uIpeiWt1OWWyrjib8S/mF1G5vVeNo0jtmPiMIPAobGpcEGI/kc6FL2POUYMjrNPgcaAQMDbsdxb6UJka7w9BTNgsspYJR7IjAE1Oipd0wqJ0gXtiT77PDiag5romS0C51+1Se0lKA9nBtKCIu1AfD8uOC+cMdFEglSeBPTrXy1m+usm9eU0Yi5PWBs/xKTVnJSxZpqlBN5HgIsiSAyKhBvyLmjDGKaXIF9o1jVekRkUx8m6KAhaNURSx2Euy84Yy9oWAOHeN6TSWRcpGkInShFWHyarslFuwyKMcRlToOXvDB268/8V8/styPU+/FJ3/fGCqskF7RDEbKbpAa3tmBDbaE+DItSjCCQTcHKzolckYGCeXfbyEO6Ry7T/TaMDc88mA99SggVjoh7vCI5WtO0jskFWN1rks/jPrkAGXWD/WQf7IhGBBNDjAU3FoIbMsxpmAAmoSaIRzwc9v3L0m/oXtsNKk2oIh6RQTGKelG4maxDkv4DPZcFocD8mngKTAvQQeg3csOj4DbMAiRhX3Ym/vHWXCfsHxqX6D8hv8W6llAULCDZjf+GTJhPmP98ORwgFM758Wh6mJC2cBhmRz8xka7MoIlHFc8WBcLHb5z399QJJvV9Q+z8d5EHLLbkYbuMsHjaF4Sv0m0+7uTQ+fp3E+smZRPs12EDtdpEek6BWwWWTUrOahTSYhy6SBUcjNf7H4ig0pp9YPAki8FY/6XcirmrpzIMvjHzsLV0P154gNE+xaJthiKnn+fYio4nQezlixOKjcLQaVezamtUt9PIZZq6bVAYqr/NLlvhCexkMdWCs01LSkCBJ9zIV4SL3rOQz32hIivUgBuySyRr2Z8r4fs3PUHpH9B3XMEIuvnZJz4OhYUuCdhNuUHS3kBMYTRqLe0nmqcWak4xTibLfFlObhiA5lDy/6goPHmyOceTIzGA/kGDTw9uue+2266SueKYbFSFfkBo2yfivCHZHskX7C7ZnVy9k+lI2eR7ZX0ZjnzAYtqGjcUMrGWoWrjqZivUSORVuCmYx1/UsVM22FKhW5rwIn5v1IFNj03ZRoYv8RrJKEVS/25WnMS91d9kXgjjQFCgUCNNCjM5A==\"},\"version\":\"2026-02-18T13:36:35.371Z\",\"staleAt\":\"2026-02-23T13:39:13.137Z\",\"sse\":true}]]"
+        },
+        {
+          "name": "mprtcl-prodv4_C0CBC5CA",
+          "value": "eyItNjc4MTk4MDY5NjYxMjYyMDIxMyI6eyJjcCI6W119fQ=="
+        },
+        {
+          "name": "awswaf_token_refresh_timestamp",
+          "value": "1771853870813"
+        },
+        {
+          "name": "lastActivity",
+          "value": "1771853894279"
+        },
+        {
+          "name": "awswaf_session_storage",
+          "value": "7818dd13-134f-451a-9c5f-c51e51542d4d:CQoAt5NfF4mmAAAA:hHXuOyahu1ssAgJH0IFmle9qB9D5jZMH3FlZ9htbq4hP45am9dN0btmhOfFv0m1WydhLz0sEBbwuQ2NpU7biF+VBmLLdf2fYOlp806OmJUJmIGZS2Gzqn7tvjY7cL9POeXzHykYP8/yz2s0qjJ1YDdyXhfF7Sa1y2VESmAkCwwztU4b6hhDzIhsmvmBFq+SnkLWniLyhPwAGYIWozZk0bIUvBT3rZIKeU7fN5BLalhFFOI4r1bUcn0oSnsumUqTWyXd2Tr8M6WNUd1ihdMOsCDL6n9arnD1xMzVtXCe/5ZErei4qozW/fS5/EiSh9/cD2bTwrvwOLJxQIFlPS2EZE3BeCg2nh2BiuP5TLHoWbZrY278PCuLqbfMO40Z1NybHjhY4A7qZ5WEU/1+J0s++GxT4k5cmADOhGzVUMjc5MFlFSZGHQi3EzQvpe6MVZ9NpS/kis6yYBWWs8VuLvWbhvtEZZvTLWqJCO9FCQAg9s02iO0uYj3fd6bjPfQ6WEUwW4Gvtnr+JcSOEvvHvk1WMaANiZWuZBxrG8DDb4aVpZrEprhgE34VG8vbp3b0i3oBAxQHlkZOjGOlIroNZo8ZYGjSbSK9fGlCw0q2baZEI3wMs7/mjAESQawNDme6oXBiHGM/SsGsYPoG/66iO5tHoDOI4Qix3T/+fUlNWnDcN+7JfmxMd1SZaISHThpiuB98qP5iNWgn21Sfj9aS85B4CEftYbqIBGee0V0cnEJ5VbX3C+txnsB7ART6M6AnHSDyrvc5yWBg3AVllm87ONes3Arol2CZ+AqL8kVoh3sZYZ6w6oYW5A5f9ScFIJ6KFgW05jteBfe++/OdrNqLXaGNDPI2XWJ5B8qH8jFMe2yU2cnd1SP9raeQn3AoIUo8SCsVNzzgxRXFfiHLYkeGKPwevYfICCdeBzIPJSVN7ZDGjdsZUjHdU7tOLQHPsebjfFURg1FwH8oS3Dg1c2StVx6NtBzqzypNJkaaNoulHmctSAY4nBPs0mQPpC6AJTBHGWfHl3J3ug0pubIjpUbSFZ8Gd1wCKvKzxuZAMDwBCqsx0"
+        },
+        {
+          "name": "idbs",
+          "value": "1"
+        },
+        {
+          "name": "mprtcl-v4_C0CBC5CA",
+          "value": "{'gs':{'ie':1|'dt':'eu1-65a8d34309873a49a53f7f1add6da9ec'|'cgid':'14a1fe1b-7525-46db-96f7-25484f271f5e'|'das':'4295bb9a-ab62-4880-64b5-ff3cacf48059'|'csm':'WyItNjc4MTk4MDY5NjYxMjYyMDIxMyJd'|'sid':'B7CB9E02-63BA-4B97-81FE-1F3A7C27E57F'|'les':1771853870714|'ssd':1771853870713}|'l':0|'-6781980696612620213':{'fst':1771853870781|'con':'eyJnZHByIjp7ImFuYWx5dGljcyI6eyJjIjpmYWxzZSwidHMiOjE3NzE4NTM4NzA3ODIsImQiOiJhbmFseXRpY3MiLCJsIjoiaHR0cHM6Ly9hcHAudHJhZGVyZXB1YmxpYy5jb20vbG9naW4iLCJoIjoiaGFyZHdhcmVJZCJ9LCJtYXJrZXRpbmciOnsiYyI6ZmFsc2UsInRzIjoxNzcxODUzODcwNzgyLCJkIjoibWFya2V0aW5nIiwibCI6Imh0dHBzOi8vYXBwLnRyYWRlcmVwdWJsaWMuY29tL2xvZ2luIiwiaCI6ImhhcmR3YXJlSWQifX19'}|'cu':'-6781980696612620213'}"
+        },
+        {
+          "name": "mprtcl-v4_C0CBC5CA-id-cache",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}

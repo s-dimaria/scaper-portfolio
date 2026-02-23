@@ -1,0 +1,28 @@
+etf_name,sector_name,sector_weighting
+Core S&P 500 USD (Acc),Information Technology,32.98
+Core S&P 500 USD (Acc),Financial,12.69
+Core S&P 500 USD (Acc),Telecommunication,10.22
+Core S&P 500 USD (Acc),Consumer goods,9.89
+Core S&P 500 USD (Acc),Health Care,9.68
+Core MSCI World USD (Acc),Information Technology,25.45
+Core MSCI World USD (Acc),Financial,16.43
+Core MSCI World USD (Acc),Industrial,12.21
+Core MSCI World USD (Acc),Health Care,9.77
+Core MSCI World USD (Acc),Consumer goods,9.39
+MSCI Semiconductors ESG (Acc),Electronics,97.62
+MSCI Semiconductors ESG (Acc),Electrics,1.23
+AI & Big Data USD (Acc),Internet & Software,37.68
+AI & Big Data USD (Acc),Electronics,27.36
+AI & Big Data USD (Acc),Unknown,10.69
+AI & Big Data USD (Acc),Services,8.84
+AI & Big Data USD (Acc),Telecommunication,6.34
+MSCI EM USD (Acc),Information Technology,30.56
+MSCI EM USD (Acc),Financial,25.68
+MSCI EM USD (Acc),Consumer goods,10.44
+MSCI EM USD (Acc),Telecommunication,7.89
+MSCI EM USD (Acc),Industrial,6.44
+MSCI Japan SRI USD (Acc),Industrial,23.29
+MSCI Japan SRI USD (Acc),Financial,18.22
+MSCI Japan SRI USD (Acc),Consumer goods,13.76
+MSCI Japan SRI USD (Acc),Information Technology,13.10
+MSCI Japan SRI USD (Acc),Telecommunication,7.91
