@@ -98,11 +98,11 @@ def parse_portfolio_html(html: str) -> List[Instrument]:
         return []
 
     instruments: List[Instrument] = []
-    for li in section.select("ul.portfolioInstrumentList > li[id]"):
+    for li in section.select("ul.portfolioInstrumentList > li"):
         instrument_id = (li.get("id") or "").strip()
         name_el = li.select_one(".instrumentListItem__name")
         name = name_el.get_text(strip=True) if name_el else ""
-        if instrument_id:
+        if instrument_id and name:
             instruments.append(Instrument(instrument_id=instrument_id, name=name))
 
     return instruments
